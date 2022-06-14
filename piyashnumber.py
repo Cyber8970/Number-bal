@@ -11,6 +11,7 @@ print(logo1)"""
  |  ___/ | |   \   // /\ \  \___ \|  __  |
  | |    _| |_   | |/ ____ \ ____) | |  | |
  |_|   |_____|  |_/_/    \_\_____/|_|  |_|
+"""
 mrm = raw_input('\x1b[1;96m[?] \x1b[1;97mEnter Your User Agent \x1b[1;96m>>>> ')
 for n in range(10000):
     nmbr = random.randint(111111, 999999)
